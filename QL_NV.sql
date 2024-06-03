@@ -1,4 +1,4 @@
-﻿
+
 CREATE DATABASE QL_NV
 USE QL_NV
 
